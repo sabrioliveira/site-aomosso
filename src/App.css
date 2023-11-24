@@ -1,0 +1,46 @@
+/* paleta de cores:
+#ede6db
+#8fbdd3
+#c8677f
+#72424e
+#a9aae8 */
+
+.App {
+  text-align: center;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+h1 {
+  padding: 30px;
+  padding-top: 0;
+  color: #fff;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+#input {
+  border-radius: 10px;
+  margin: 1px;
+  padding: 7px;
+  width: 30%;
+}
+
+.botao {
+  background-color: #8fbdd3;
+  color: #fff;
+  font-family: sans-serif;
+  border-radius: 10px;
+  margin: 1px;
+  padding: 7px;
+  cursor: pointer
+}
+
+.botao:hover {
+  background-color: #59a3c5;
+}
